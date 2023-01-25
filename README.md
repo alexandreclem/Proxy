@@ -38,7 +38,7 @@ The purpose of this project is to present an implementation for unix-based syste
          ```
         - Where:
             - TMER_LIMIT - Time (in seconds) the data will be stored in the proxy cache
-            - PROXY_PORT - Porta do servidor
+            - PROXY_PORT - Server Port
     
     - Within the **src/clients** directory, run: 
         ```bash    
