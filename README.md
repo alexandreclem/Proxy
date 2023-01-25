@@ -55,6 +55,7 @@ The purpose of this project is to present an implementation for unix-based syste
     - The proxy data (.html files) are stored inside **src/proxy/data**.
 
 - Commands 
+
     In the client CLI you can run the four commands listed below:
 
     - **fetch**
