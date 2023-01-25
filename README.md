@@ -1,7 +1,7 @@
 ## Proxy Application using Sockets in C
 
 ### What does it do?
-The purpose of this project is to present an implementation for unix-based systems of a proxy server that serves a set of clients (concurrently) through parallel programming techniques. The proxy server makes **HTTP** requests to websites over the internet and returns their contents to the clients. The proxy uses a **hash-based cache** to store the contents and have access efficiently.
+The purpose of this project is to present an implementation for unix-based systems of a proxy server that serves a set of clients (concurrently) on the same machine through parallel programming techniques. The proxy server makes **HTTP** requests to websites over the internet and returns their contents to the clients. The proxy uses a **hash-based cache** to store the contents and have access efficiently.
 
 ### Architecture
 <p align="center" width="100%">
@@ -59,7 +59,7 @@ The purpose of this project is to present an implementation for unix-based syste
     In the client CLI you can run the four commands listed below:
 
     - **fetch**
-        - Used to request a website for the proxy. You can pass multiple URL, separated by spaces, for example:
+        - Used to request a website for the proxy. You can pass multiple URLs, separated by spaces, for example:
             ```C
             $ fetch http://www.test.com http://www.test2.com
             ```
