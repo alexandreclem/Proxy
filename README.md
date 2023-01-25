@@ -24,7 +24,7 @@ The purpose of this project is to present an implementation for unix-based syste
     - Within the **src/clients** directory, run: 
         ```bash
         $ make
-        $ make clean         [port]
+        $ make clean        
         ```
     - Within the **src/proxy** directory, run: 
         ```bash
