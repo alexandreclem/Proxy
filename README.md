@@ -60,25 +60,25 @@ The purpose of this project is to present an implementation for unix-based syste
 
     - **fetch**
         - Used to request a website for the proxy. You can pass multiple URL, separated by spaces, for example:
-            ```bash
+            ```C
             $ fetch http://www.test.com http://www.test2.com
             ```
             
         
     - **list**
         - Lists the current proxy content. Remember that after the *TIME_LIMIT* set up earlier, all proxy content is erased.
-            ```bash
+            ```C
             $ list
             ```
 
     - **history**
         - Shows the history of commands that were run.
-            ```bash
+            ```C
             $ history
             ```
     - **Quit**
         - Bye :)!
-            ```bash
+            ```C
             $ quit
             ```
 
