@@ -19,7 +19,7 @@ The purpose of this project is to present an implementation for unix-based syste
     ```bash
     $ git clone https://github.com/alexandreclem/Proxy.git
     ```
-- Compile - creates the binaries (.class)
+- Compile 
     
     - Within the **src/clients** directory, run: 
         ```bash
