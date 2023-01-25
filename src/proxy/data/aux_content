@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Date: Wed, 25 Jan 2023 18:45:01 GMT
+Content-Type: text/html
+Content-Length: 527
+Connection: close
+Last-Modified: Fri, 08 Apr 2022 16:54:52 GMT
+Accept-Ranges: bytes
+ETag: "0d6835d694bd81:0"
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+SN: EC2AMAZ-BSL60ON
+
+<html>
+	<head>
+		<title>URL for testing - Category Job Search</title>
+	</head>
+
+	<body>
+		<code>
+			http://www.testingmcafeesites.com/testcat_js.html<br>
+			<br>
+
+			This is an example URL which should be categorized as a Job Search website with a low risk reputation score.<br>
+			This page simply displays this text without any specific content on it, it is just for testing purpose.<br>
+			<br>
+			<b>If you can see this text, it was not blocked by any filter!</b><br>
+			<br>
+		</code>
+	</body>
+
+</html>

@@ -1,0 +1,13 @@
+One by One
+fetch http://www.testingmcafeesites.com/testcat_po.html
+fetch http://www.testingmcafeesites.com/testcat_pm.html
+fetch http://www.testingmcafeesites.com/testcat_js.html
+fetch http://www.testingmcafeesites.com/testcat_hw.html
+
+Two by Two
+fetch http://www.testingmcafeesites.com/testcat_po.html http://www.testingmcafeesites.com/testcat_pm.html
+
+fetch http://www.testingmcafeesites.com/testcat_js.html http://www.testingmcafeesites.com/testcat_hw.html
+
+The Four Together
+fetch http://www.testingmcafeesites.com/testcat_po.html http://www.testingmcafeesites.com/testcat_pm.html http://www.testingmcafeesites.com/testcat_js.html http://www.testingmcafeesites.com/testcat_hw.html
