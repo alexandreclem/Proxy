@@ -77,7 +77,7 @@ The purpose of this project is to present an implementation for unix-based syste
             $ history
             ```
     - **Quit**
-        - Bye :)!
+        - Bye :) !
             ```C
             $ quit
             ```
